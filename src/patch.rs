@@ -1,12 +1,12 @@
 // Version and Manifest files
 const TEXT_SERVER_ROOTS: [&str; 2] = [
-	"https://raw.githubusercontent.com/solsticegamestudios/GModPatchTool/refs/heads/files/",
+	"https://ghfast.top/https://raw.githubusercontent.com/solsticegamestudios/GModPatchTool/refs/heads/files/",
 	"https://www.solsticegamestudios.com/gmodpatchtool/"
 ];
 
 // Patch files
 const BINARY_SERVER_ROOTS: [&str; 2] = [
-	"https://media.githubusercontent.com/media/solsticegamestudios/GModPatchTool/refs/heads/files/",
+	"https://ghfast.top/https://github.com/solsticegamestudios/GModPatchTool/raw/refs/heads/files/",
 	"https://www.solsticegamestudios.com/gmodpatchtool/" // TODO: Webhook that triggers git pull and clears the cache on Cloudflare
 ];
 
