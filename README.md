@@ -1,3 +1,8 @@
+# Build
+```bash
+cargo build --release
+```
+
 # GModPatchTool <sub>_Formerly GModCEFCodecFix_</sub>
 
 ![GModPatchTool](GModPatchToolLogo.png)
