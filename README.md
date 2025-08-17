@@ -1,7 +1,11 @@
 # Build
+Install git lfs first
 ```bash
+git lfs install
+git lfs pull
 cargo build --release
 ```
+Built file was in target/release
 
 # GModPatchTool <sub>_Formerly GModCEFCodecFix_</sub>
 
